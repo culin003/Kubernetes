@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubernetes-apiserver-amd64:v1.15.3
+FROM gcr.io/google_containers/kube-apiserver:v1.15.3
 MAINTAINER leoly
