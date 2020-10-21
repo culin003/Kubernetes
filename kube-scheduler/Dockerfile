@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-scheduler:v1.15.3
+FROM gcr.io/google_containers/kube-scheduler:v1.19.2
 MAINTAINER leoly
